@@ -24,7 +24,7 @@ When I'm not coding/hacking, I love building mini hardware projects and explorin
 - 💬 Ask me about Ruby On Raiks, Python, PHP, JavaScript, Bash, HTML/CSS, SQL/Postgresql, Automation;
 - ⚡️ Fun-Fact: Recently I have taken interest hardware/electronic projects.
 - 📫 How to reach me: obaidurehman98@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1vFYf0JLXyHjY6WB-g9Tlme6n-VhxofGv/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/18SKGWBpqBays9kJWms5ruTO2gC91ePz9/view?usp=sharing)
 <!---
 **Languages and Tools:**  
 
